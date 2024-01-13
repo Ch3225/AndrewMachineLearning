@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ANNBP", "多层神经网络多分类器训练\ANNBP.pyproj", "{053EE366-2F08-4B70-86CA-5B2FD1D8E590}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2", "PythonApplication2\PythonApplication2.pyproj", "{B7241528-8D8C-4B79-A01E-9BBF3FF18AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053EE366-2F08-4B70-86CA-5B2FD1D8E590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053EE366-2F08-4B70-86CA-5B2FD1D8E590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7241528-8D8C-4B79-A01E-9BBF3FF18AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7241528-8D8C-4B79-A01E-9BBF3FF18AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684CBC7E-8D5E-4E55-ABFA-AA15A0804B52}
+	EndGlobalSection
+EndGlobal
